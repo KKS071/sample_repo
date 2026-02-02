@@ -14,4 +14,6 @@ Testing Branch 5 - was merged via Pull Request from GitHub.
 
 Testing Branch 6 - Merging from command line with Merge Commit.
 
+Testing Branch 7 - Again from Command Line.
+
 
